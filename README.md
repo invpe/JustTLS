@@ -1,2 +1,2 @@
 # JustTLS
-Simple example of using TCP with TLS across server,client and ESP32
+Simple example of creating a TCP server with TLS and connecting with Command Line client and ESP32.
